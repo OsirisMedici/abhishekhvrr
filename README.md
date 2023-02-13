@@ -1,4 +1,7 @@
-### Hi there 👋
+ 
+### [Connect with me 💬](https://bio.link/imconqueror7) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=imconqueror7.imconqueror7)
+
 
 <!--
 **imconqueror7/imconqueror7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
